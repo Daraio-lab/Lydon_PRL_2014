@@ -1,0 +1,15 @@
+Here included is the data used for the 
+
+
+To view the data. Load the data file, and then run the corresponding visualization file using Matlab.
+
+The Band.mat is the data file looking at the frequency response in the near and far force sensors. 
+The file plotbanddata.m plots the experimental data along with the theoretical acoustic band edges. 
+This corresponds to figure 2 a and b in the paper. 
+
+The Modes_Fine.mat is a matlab data file that tracks the mode profile while compressing the lattice. 
+The file plotmode_fine.m plots this data with increaseing precompression.
+This data corresponds to figure 2c-e and  Fig 3b in the paper. 
+
+Data_2D.mat is the data file corresponding the the 2D eigenvalue simulation.
+buildmovie.m is the file used to visulize this data.
